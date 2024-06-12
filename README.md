@@ -17,8 +17,8 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/my-terraform-project.git
-cd my-terraform-project
+git clone https://github.com/ArpitAggIN/aws-eks-tf.git
+cd aws-eks-tf
 ```
 
 ### Configure AWS credentials (e.g., `~/.aws/credentials`)
